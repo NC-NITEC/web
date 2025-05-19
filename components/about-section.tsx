@@ -93,7 +93,7 @@ export default function AboutSection() {
           <ValueCard
             icon={<Rabbit className="h-10 w-10 text-purple-600" />}
             title="mlem"
-            description="ở đây chúng tôi có rất nhiều wibu, NJC tuổi 🦋"
+            description="ở đây chúng tôi có rất nhiều wibu 🦋"
             variants={itemVariants}
           />
           <ValueCard
